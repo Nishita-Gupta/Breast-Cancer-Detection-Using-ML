@@ -31,7 +31,6 @@ You can also load it directly using `sklearn.datasets.load_breast_cancer()`.
 - Scikit-learn
 - XGBoost
 - Matplotlib & Seaborn
-- Pickle (optional for model saving)
 
 ### 🧪 Key Steps
 1. Load and explore the dataset
