@@ -42,8 +42,6 @@ You can also load it directly using `sklearn.datasets.load_breast_cancer()`.
 ### 📈 Accuracy
 - **Cross-validation accuracy**: ~97%
 
-## 📘 4. Project Documentation
-
 ### ✅ Objectives
 - Detect whether a tumor is benign or malignant
 - Compare cross-validation accuracy for robust model evaluation
@@ -51,5 +49,3 @@ You can also load it directly using `sklearn.datasets.load_breast_cancer()`.
 
 ### 🧠 ML Model Used
 - **XGBoost Classifier**: Selected for its high performance in classification tasks
-
-### 📂 Directory Structure
